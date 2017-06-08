@@ -196,6 +196,10 @@ _____________________________________________________
 	0.2 Utility
 -------------------------------------------------- */
 
+.center {
+    text-align: center;
+}
+
 .video-container {
     position: relative;
     padding-bottom: 56.25%;
